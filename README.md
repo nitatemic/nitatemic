@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, you can call me Nitatemic, Alexandre or Alex (He/Him)</h1>
 
-- 🔭 I’m currently working on **multiples bash scripts**
-
-- 🌱 I'm currently deepening my knowledge of **Bash**
 
 - 🤝 If you want to support me or one of my projects [Ko-fi](https://ko-fi.com/nitatemic)
 
